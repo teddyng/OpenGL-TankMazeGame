@@ -14,7 +14,7 @@ How I completed this project, I am a fairly bad programming, and I have no idea 
 "Your task is to develop a 3rd person maze action game using OpenGL. The goal of the game is to navigate a tank around a maze using the keyboard and mouse and eliminate all targets within a time limit while avoiding traps and falling off the edges. An outline of the functionality you are required to implement is given below. Marks will be awarded for providing additional functionality and for ease of user interaction."
 
 
-## Timeline of my porgramming / 48 hours hackathon
+## Timeline of my programming / 48 hours hackathon
 
 **Saturday**
 
