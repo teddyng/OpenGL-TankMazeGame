@@ -2,9 +2,9 @@
 
 An OpenGL project for COMPUTER VISION & GRAPHICS (EEE2041), University of Surrey Electronic Engineering with Computer Systems 2016-2017
 
-"Your task is to develop a 3rd person maze action game using OpenGL. The goal of the game is to navigate a tank around a maze using the keyboard and mouse and eliminate all targets within a time limit while avoiding traps and falling off the edges. An outline of the functionality you are required to implement is given below. Marks will be awarded for providing additional functionality and for ease of user interaction."
-
 If you are visiting this page becuase you are also doing the same assisgment, start early becuase this is probubly the best and the most enjoyable coursework you will ever do.
+
+"Your task is to develop a 3rd person maze action game using OpenGL. The goal of the game is to navigate a tank around a maze using the keyboard and mouse and eliminate all targets within a time limit while avoiding traps and falling off the edges. An outline of the functionality you are required to implement is given below. Marks will be awarded for providing additional functionality and for ease of user interaction."
 
 How I completed this project, I am a farly bad programming, and I have no idea with OpenGL is, I still have to search up how to make a switch case and how to read from file, this is how bad I am in programming. My deadline was Monday and I started on Saturday, thinking I need to pass, attendance is 20% already, I just need to model a tank and some crete and I will have passed. Unforunly, I only turn up to labs to sign the attendance sheet and left after 10 minutes, so I have absoluly no idea about OpenGL. So my 48 hours hackathon begins.
 
