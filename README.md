@@ -8,6 +8,7 @@ If you are visiting this page because you are also doing the same assessment, st
 
 How I completed this project, I am a fairly bad programming, and I have no idea with OpenGL is, I still have to search up how to make a switch case and how to read from file, this is how bad I am in programming. My deadline was Monday and I started on Saturday, thinking I need to pass, attendance is 20% already, I just need to model a tank and some crate and I will have passed. Unfortunately, I only turn up to labs to sign the attendance sheet and left after 10 minutes, so I have absolutely no idea about OpenGL. So my 48 hours hackathon begins.
 
+
 Saturday
 
 2pm - arrived at Lab, go through all tutorial, which I end up playing a game called 'FTL' on my laptop for 3 hours, until 6pm
@@ -15,6 +16,7 @@ Saturday
 6pm - Coursemate 1 suggested that I copy the code from tutorial into my code that would be useful, and she went home
 
 1am - I made a cube and a coin inside the box that's it, there's no one in the labs to help me, so I gave up and went home.
+
 
 Sunday
 
@@ -37,6 +39,7 @@ Sunday
 2am- Everything is working now apart from shooting
 
 3am - Too tried now, went home and sleep
+
 
 Monday
 
