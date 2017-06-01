@@ -35,7 +35,7 @@ Sunday
 
 12am - coursemate 3 missed the last bus back to manor park, so he explained the head up display, it turns out to be very easy, becuase you just need to copy it from one of the tutorial. (I should have been the tutorial and not play games)
 
-2am- Everything is working now apart from shooting.
+2am - Everything is working now apart from shooting.
 
 3am - Too tried now, went home and sleep.
 
