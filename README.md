@@ -66,11 +66,12 @@ How I completed this project, I am a fairly bad programming, and I have no idea 
 ## How to run my program
 
 Linux: Download Model, commom and tank folder, open terminal in the tank folder, type ./tank
+
 Mac Xcode: Download Model, commom and tank folder, google how to run openGL in Xcode, run the program 
 
 
 ## What I have learned
 
-Is has been a very hard journey and compared to a hackathon, there's no free food, no drinks... I didnt have time for implementing physics, but it has been the best two days of my life, I learned OpenGL and C++ in two days. I am so confident by Monday, I had been helping other to their problems. And lastly thank you to coursemate 1-5, without their help, I would not have got to this point.
+It has been a very hard journey and compared to a hackathon, there's no free food, no drinks... I didnt have time for implementing physics, but it has been the best two days of my life, I learned OpenGL and C++ in two days. I am so confident by Monday, I had been helping other to their problems. And lastly thank you to coursemate 1-5, without their help, I would not have got to this point.
 
 This was written 1 month after the hand in day, all the timing are reconstructed from memory and what's app records. If you need any help, pop me a message on Facebook, I am Teddy Ng and this is an introduction to OpenGL
