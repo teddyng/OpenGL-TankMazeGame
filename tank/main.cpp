@@ -132,7 +132,7 @@ int main(int argc, char** argv)
                 keyStates[i] = false;
     
         //
-        //Set up your program
+        //Main program
         //
 
         //Init Map Array to 0
@@ -179,7 +179,7 @@ int main(int argc, char** argv)
         //cameraManip.setFocus(mesh3.getMeshCentroid());
      
         //
-        // End of Set up your program
+        // End of Set Main program
         //
 
         //Enter main loop
