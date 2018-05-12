@@ -2,6 +2,7 @@
 
 An OpenGL project for COMPUTER VISION & GRAPHICS (EEE2041), University of Surrey Electronic Engineering with Computer Systems 2016-2017
 
+If you find this useful, please visit my LinkedIn page (https://www.linkedin.com/in/teddyng/) to endorsement my skills. To learn about was else I do, please visit my website at http://teddyng.co.uk.
 
 ## Introduction
 
@@ -58,7 +59,7 @@ How I completed this project, I am a fairly bad programming, and I have no idea 
 
 2pm - Back to labs to make the menu, and trying to make shooting work
 
-4pm - Demonstrator and supervisor arrives, demonstrator helped me with shooting, turns out I just have an resetting loop, so it ball doesn't shoot, change that quickly, probably still have 20 minutes until it is my turn for marking.
+4pm - Demonstrator and supervisor arrives, demonstrator helped me with shooting, turns out I just have an resetting loop, so the ball doesn't shoot, changed that quickly, probably still have 20 minutes until it is my turn for marking.
 
 5pm - Is now my turn, 'make' the programme and I got a systematic error, he went on to the next guy when I try to sort it, I 'make clear' and 'qmake' and 'make', is working, I am so happy. Final mark is 87%
 
