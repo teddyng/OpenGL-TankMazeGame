@@ -4,7 +4,7 @@ An OpenGL project for COMPUTER VISION & GRAPHICS (EEE2041), University of Surrey
 
 If you find this useful, please visit my LinkedIn page (https://www.linkedin.com/in/teddyng/) to endorsement my skills. To learn about was else I do, please visit my website at http://teddyng.co.uk.
 
-Plagiarism is a serious offense in force by the university, please reference this code with care.
+Plagiarism is a serious offense in force by the university, please reference to this code with care.
 
 ## Introduction
 
@@ -86,4 +86,4 @@ It has been a very hard journey and compared to a hackathon, there's no free foo
 
 This was written about 1 month after the hand in day, all the timing are reconstructed from memory, Facebook and What's App records. My time management strategies are not encouraged.
 
-If you need any help, pop me a message on Facebook, I am Teddy Ng and this is an introduction to OpenGL
+If you need any help, pop me a message on Facebook, I am Teddy Ng and this is an introduction to OpenGL.
