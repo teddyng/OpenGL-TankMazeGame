@@ -4,6 +4,8 @@ An OpenGL project for COMPUTER VISION & GRAPHICS (EEE2041), University of Surrey
 
 If you find this useful, please visit my LinkedIn page (https://www.linkedin.com/in/teddyng/) to endorsement my skills. To learn about was else I do, please visit my website at http://teddyng.co.uk.
 
+Plagiarism is a serious offense in force by the university, please reference this code with care.
+
 ## Introduction
 
 If you are visiting this page because you are also doing the same assessment, start early because this is probably the best and the most enjoyable coursework you will ever do. I upload this code to Github because at the time when I started this project, I couldn't find anything similar online to help me with (you might find some by older students, but they would be using an older version of OpenGL, so a lot of codes and libraries are pointing the wrong way, basiclly useless to me), and I think it would be useful if you can have an idea of how the code might look.
